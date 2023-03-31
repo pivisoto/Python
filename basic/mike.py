@@ -1,0 +1,16 @@
+import turtle
+
+janela = turtle.Screen()
+mike = turtle.Turtle()
+mike.shape("turtle")
+mike.color("blue")
+mike.left(45)
+mike.forward(200)
+mike.right(90)
+mike.forward(400)
+mike.left(45)
+mike.forward(200)
+mike.left(45)
+mike.forward(400)
+mike.left(45)
+mike.forward(200)
